@@ -1,6 +1,6 @@
 # vue-musicplayer
 
-![avatar](/src/assets/iamges/example.png)
+![avatar](/src/assets/images/example.png)
 
 ## Project setup
 
