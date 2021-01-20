@@ -1,0 +1,9 @@
+.default_left .el-table,
+.default_left .el-table__expanded-cell {
+    background-color: transparent
+}
+
+.default_left .el-table th,
+.default_left .el-table tr {
+    background-color: transparent;
+}
