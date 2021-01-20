@@ -1,6 +1,6 @@
 # vue-musicplayer
 
-![avatar](/src/assets/images/example.png)
+![avatar](https://github.com/blueth007/Vue_musicplayer/blob/master/src/assets/example.png)
 
 ## Project setup
 
